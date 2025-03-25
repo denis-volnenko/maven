@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-liquilbase-asciidoc-plugin</name>
+      <prefix>liquilbase-asciidoc</prefix>
+      <artifactId>maven-liquilbase-asciidoc-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
